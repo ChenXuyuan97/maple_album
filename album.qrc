@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/style/main_window.qss</file>
+        <file>controls/res/floating_action_button/unfold.png</file>
+        <file>resource/style/photo_view.qss</file>
+        <file>resource/skin/scroll_h_bk_hover.png</file>
+        <file>resource/skin/scroll_h_bk_normal.png</file>
+        <file>resource/skin/scroll_h_normal.png</file>
+        <file>resource/skin/scroll_h_pressed.png</file>
+        <file>resource/skin/scroll_v_bk_hover.png</file>
+        <file>resource/skin/scroll_v_bk_normal.png</file>
+        <file>resource/skin/scroll_v_normal.png</file>
+        <file>resource/skin/scroll_v_pressed.png</file>
+        <file>resource/skin/capture.png</file>
+        <file>resource/skin/export.png</file>
+        <file>resource/skin/picture_import.png</file>
+        <file>resource/skin/qq.png</file>
+        <file>resource/skin/clear.png</file>
+        <file>resource/skin/screen_capture.png</file>
+    </qresource>
+</RCC>
